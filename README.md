@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤞🏻, I'm Sasuke Uchiha</h1>
 <h3 align="center">I'm A Python Programmer From Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/sasuke-uchiha-120/">
+<img align="right" alt="coding" width="400" src="https://github.com/S4SUK3-UCH1H4/S4SUK3-UCH1H4/blob/main/icegif-998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4suk3-uch1h4&label=Profile%20views&color=7f22e3&style=plastic" alt="s4suk3-uch1h4" /> </p>
 
